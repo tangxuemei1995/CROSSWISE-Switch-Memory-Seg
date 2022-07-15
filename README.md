@@ -1,4 +1,4 @@
-# SMSeg
+# CROSSWISE-Switch-Memory-Seg
 
 [That Slepen Al the Nyght with Open Ye! Cross-era Sequence Segmentation with Switch-memory ](https://aclanthology.org/2022.acl-long.540.pdf) at ACL2022.
 
@@ -62,4 +62,4 @@ You can see more parameters in smseg_main.py
 
 Please contact us at tangxuemei@stu.pku.edu.cn if you have any questions.
 Welcome to Research Center for Digital Humanities of Peking University! https://pkudh.org
-# CROSSWISE-Switch-Memory-Seg
+
